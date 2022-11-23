@@ -1,6 +1,6 @@
 import React from "react";
 import { FlatListProps, ViewStyle, StyleProp } from "react-native";
-import { FlatList } from "react-native-gesture-handler";
+import { FlatList } from "react-native";
 import Animated from "react-native-reanimated";
 declare const defaultProps: {
     autoscrollThreshold: number;
